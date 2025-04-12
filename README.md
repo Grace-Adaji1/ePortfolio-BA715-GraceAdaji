@@ -14,12 +14,13 @@ This ePortfolio showcases selected artifacts that demonstrate my skills in:
 - Visualization and storytelling  
 
 ## 🔗 Key Projects and Artifacts  
-1. [**Customer Churn Prediction (RBC Group Project)**](./RBC_Churn_Project.pdf) – Logistic regression and data wrangling for churn modeling  
-2. [**Python Script (Logistic Regression)**](./Python_Logistic_Regression%20Script.ipynb) – Clean code and documentation for training/testing models  
+1. [**Customer Churn Prediction (RBC Group Project)**](RBC_Churn_Project.pdf) – Logistic regression and data wrangling for churn modeling  
+2. [**Python Script (Logistic Regression)**](Python_Logistic_Regression_Script.ipynb) – Clean code and documentation for training/testing models  
 3. [**SAS Predictive Modeling (Personal)**](https://github.com/Grace-Adaji1/SAS-Predictive-Modeling-Projects) – Decision tree, neural network, and regression using SAS Enterprise Miner  
-4. [**Google Analytics 4 Certificate**](./GA%204%20certificate.pdf) – Evidence of marketing data proficiency  
-5. [**Power BI Certificate**](./Power%20BI_Certificate.pdf) – Demonstrates BI tool skills and dashboarding  
-6. [**Resume**](./Resume.pdf) – My updated CV detailing experience, skills, and results (including 15% revenue gain from past data-driven initiatives)
+4. [**Google Analytics 4 Certificate**](GA%204%20Certificate.pdf) – Evidence of marketing data proficiency  
+5. [**Power BI Certificate**](Power_BI_Certificate.pdf) – Demonstrates BI tool skills and dashboarding  
+6. [**Resume**](Grace_Portfolio_Resume.pdf) – My updated CV detailing experience, skills, and results (including 15% revenue gain from past data-driven initiatives)
+
 
 ## 💡 Purpose of This ePortfolio  
 To present my technical and strategic analytics capabilities in a structured, accessible format for academic and career-related opportunities.
