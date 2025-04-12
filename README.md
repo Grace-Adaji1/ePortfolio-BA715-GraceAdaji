@@ -25,6 +25,8 @@ This ePortfolio showcases selected artifacts that demonstrate my skills in:
 To present my technical and strategic analytics capabilities in a structured, accessible format for academic and career-related opportunities.
 
 📬 **Let’s connect**: [graceadaji@gmail.com](mailto:graceadaji@gmail.com)
+🔗 **LinkedIn**: [linkedin.com/in/graceadaji](https://www.linkedin.com/in/graceadaji)
+
 
 ### 🛡️ Statement of Authenticity
 
