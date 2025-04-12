@@ -27,7 +27,6 @@ To present my technical and strategic analytics capabilities in a structured, ac
 📬 **Let’s connect**: [graceadaji@gmail.com](mailto:graceadaji@gmail.com)
 🔗 **LinkedIn**: [linkedin.com/in/graceadaji](https://www.linkedin.com/in/graceadaji)
 
-
 ### 🛡️ Statement of Authenticity
 
 I, **Grace Adaji**, confirm that all the work presented in this ePortfolio is either my individual work or represents my contribution to group projects during the Business Analytics program at **Centennial College**. This submission is an honest reflection of my knowledge, skills, and professional growth.
